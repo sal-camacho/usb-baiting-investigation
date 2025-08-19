@@ -33,10 +33,14 @@ This investigation documents a cybersecurity scenario involving a suspicious USB
 
 ## Reflection
 
-This activity reinforced the importance of treating unknown USB devices as potential threats. By analyzing attacker motivations and applying layered controls, I strengthened my understanding of physical attack vectors and internal security posture. The exercise also highlighted how curiosity and poor data hygiene can expose organizations to serious risks.
+This activity reinforced the importance of treating unknown USB devices as potential threats. By analyzing attacker motivations and applying layered controls, I strengthened my understanding of physical attack vectors and internal security posture. The exercise also underscored how curiosity and careless handling of sensitive data can leave organizations vulnerable to significant security threats.
 
 ---
 
 ## Screenshot of Exercise Investigation & Contents of the USB Stick
 ![USB Attack Vector](images/image/usb-baiting-investigation.png)
 > This image captures the full response submitted as part of the Google Cybersecurity Certificate Parking Lot USB activity.
+
+<img width="632" height="816" alt="40" src="https://github.com/user-attachments/assets/be567192-330f-4368-aa2a-8ae135494600" />
+<img width="638" height="551" alt="41" src="https://github.com/user-attachments/assets/2ad71da8-af60-4330-9560-4c0fc4a2dc2f" />
+<img width="998" height="644" alt="42" src="https://github.com/user-attachments/assets/ca593559-0f7f-40a1-9f12-a8d281835691" />
