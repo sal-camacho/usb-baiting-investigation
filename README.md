@@ -28,7 +28,7 @@ This investigation documents a cybersecurity scenario involving a suspicious USB
 | **Category**         | **Details**                                                                                                                                                     |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Contents**         | - USB contained personal photos and HR files (e.g., new hire letter, shift schedule)  <br> - Included PII such as names, emails, and internal documents  <br> - Mixing personal and work files increases exposure risk |
-| **Attacker Mindset** | - Files could be used to impersonate Jorge or target coworkers  <br> - Timesheets and HR data enable tailored phishing or social engineering  <br> - USB may have been staged to lure internal access |
+| **Attacker Mindset** | - Files could be used to impersonate Jorge or target coworkers  <br> - Timesheets and HR data could enable phishing <br> - USB may have been staged to lure internal access |
 | **Risk Analysis**    | - Malware like ransomware or remote access trojans could be hidden in .exe files  <br> - Plugging into a networked system could trigger compromise  <br> - Mitigations include disabling AutoPlay, enforcing MFA, RBAC, and employee training |
 
 ## Reflection
