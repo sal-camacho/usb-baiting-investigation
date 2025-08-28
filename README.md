@@ -37,7 +37,7 @@ This activity reinforced the importance of treating unknown USB devices as poten
 
 ---
 
-## Screenshot of Exercise Investigation & Contents of the USB Stick
+## Screenshot of Completed Exercise Investigation & Contents of the USB Stick
 ![USB Attack Vector](images/image/usb-baiting-investigation.png)
 > This image captures the full response submitted as part of the Google Cybersecurity Certificate Parking Lot USB activity.
 
